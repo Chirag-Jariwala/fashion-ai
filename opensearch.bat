@@ -1,0 +1,1 @@
+ssh -i "fashion-ai.pem" -L 5601:vpc-styola-domain-fqw65tqiszul4eojrua2mkffei.ap-south-1.es.amazonaws.com:443 ubuntu@13.127.35.153

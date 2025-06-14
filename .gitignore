@@ -1,0 +1,5 @@
+.envrc
+devbox.*
+.env
+__pycache__
+test_app/*
